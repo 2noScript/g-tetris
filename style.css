@@ -1,0 +1,28 @@
+
+
+html{
+    font-family: 'Press Start 2P', cursive;
+}
+
+main{
+
+}
+
+
+
+button,.point{
+    text-transform: capitalize;
+}
+
+button {
+    cursor: pointer;
+}
+
+.game-name{
+    text-transform: uppercase;
+}
+
+
+#board{
+    border: 2px solid black;
+}
